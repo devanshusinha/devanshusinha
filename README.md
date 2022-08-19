@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devanshusinha
+- 👀 I’m interested in building Physics engines, Statistical forecasting tools and SaaS projects
+- 🌱 I’m currently learning Rust + Webassembly
+- 📫 hello@devanshusinha.com
