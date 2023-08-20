@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @devanshusinha
-- 👀 I’m interested in building Physics engines, Statistical forecasting tools and SaaS projects
-- 🌱 I’m currently learning Rust + Webassembly
-- 📫 hello@devanshusinha.com
+Hi! Welcome to my Github! Not much happening here. I run a company called Scriptify, and an advocate for Open Science. 
